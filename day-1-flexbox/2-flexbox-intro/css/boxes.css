@@ -11,6 +11,7 @@ ul {
   justify-content: center;
   height: 400px;
   align-content: stretch;
+  align-items: ;
 }
 li {
   border: 5px solid #999;
