@@ -85,4 +85,13 @@ div img {
   .col-4 {
     flex: 0 0 92%;
   }
+
+  .reverse {
+    flex-direction: row-reverse;
+  }
+  .reverse,
+  [col*="col-1-"] {
+    margin-left: -5%;
+    margin-right: 4%;
+  }
 }
